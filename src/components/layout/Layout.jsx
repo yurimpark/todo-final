@@ -1,11 +1,7 @@
-import React from 'react'
-import './style.css'
+import React from "react";
+import "./style.css";
 
 function Layout(props) {
-    return (
-      <div>
-        {props.children}
-      </div>
-    )
+  return <div className="layout">{props.children}</div>;
 }
-export default Layout
+export default Layout;

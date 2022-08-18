@@ -1,0 +1,46 @@
+.todo_container {
+  border: 4px solid #cf8881;
+  border-radius: 12px;
+  padding: 12px 24px 24px;
+  width: 270px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.todo_container > p {
+  color: rgb(34, 38, 41);
+}
+
+.todo_container > button {
+  border-radius: 10px;
+  border: none;
+
+  padding: 5px;
+  width: 100px;
+  height: 45px;
+
+  font-weight: bold;
+}
+
+.del_btn {
+  background-color: #dec5c2;
+  color: white;
+  margin-right: 10px;
+}
+
+.del_btn:hover {
+  cursor: pointer;
+  font-size: calc(100%);
+}
+
+.compl_btn {
+  cursor: pointer;
+  background-color: #8fa685;
+  color: white;
+}
+
+.compl_btn:hover {
+  cursor: pointer;
+  font-size: calc(100%);
+  color: white;
+}

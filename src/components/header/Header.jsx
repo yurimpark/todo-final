@@ -1,12 +1,11 @@
 import React from "react";
-import './style.css'
+import "./style.css";
 
 function Header() {
-    return (
-      <div>
-        <p>my todo list</p>
-        <p>REACT </p>
-      </div>
-    )
+  return (
+    <div className="container">
+      <div>my Todo List</div>
+    </div>
+  );
 }
-export default Header
+export default Header;
