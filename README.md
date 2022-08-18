@@ -1,7 +1,7 @@
 # 3주차 [React 입문주차]
-# ✔️ My Todo List만들기
+### ✔️ My Todo List만들기
 
-# github 배포 주소 : https://yurimpark.github.io/
+### github 배포 주소 : https://yurimpark.github.io/
 
 ### 📌구현기능
 - Todo 추가하기
